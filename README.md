@@ -63,6 +63,17 @@ This Power BI project analyzes crime data in Los Angeles, focusing on patterns a
 
 ---
 
+
+![LA-Crime_1](https://github.com/user-attachments/assets/811c0911-0585-4db7-997c-046354802685)
+
+
+---
+
+![LA-Crime-2](https://github.com/user-attachments/assets/50c167b3-6665-488c-8851-2423d3ad2580)
+
+---
+
+
 ## 📦 Files Included
 
 | File Name                  | Description                            |
