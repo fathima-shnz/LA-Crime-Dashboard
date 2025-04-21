@@ -78,7 +78,6 @@ This Power BI project analyzes crime data in Los Angeles, focusing on patterns a
 
 | File Name                  | Description                            |
 |---------------------------|----------------------------------------|
-| `Crime-Data.xlsx`         | Raw dataset                            |
 | `LA-Crime-Data.pbix`      | Cleaned dataset used for modeling      |
 | `LA-Crime-Dashboard.pbix` | Final interactive Power BI dashboard   |
 
